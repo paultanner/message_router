@@ -1,0 +1,18 @@
+location postcode -> coords
+
+urgency 1-5
+
+category 
+
+M Medical
+T Callback
+B Physical body
+L Materials
+V Vehicle
+F Food/ Drink
+E Electrician
+D Phone number (specialised directory
+
+return phone #
+
+attachment (voice or photo)
